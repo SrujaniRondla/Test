@@ -1,0 +1,4 @@
+service {
+"Reagent_Rental" as "RR" key ("VBELN");
+}
+

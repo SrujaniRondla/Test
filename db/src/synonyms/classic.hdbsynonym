@@ -1,0 +1,32 @@
+{
+  "Synonym_VBAK": {
+    "target": {
+      "object": "VBAK",
+      "schema": "SAPABAP1"
+    }
+  },
+  "Synonym_VBAP": {
+    "target": {
+      "object": "VBAP",
+      "schema": "SAPABAP1"
+    }
+  },
+  "Synonym_VBPA": {
+    "target": {
+      "object": "VBPA",
+      "schema": "SAPABAP1"
+    }
+  },
+  "Synonym_VEDA": {
+    "target": {
+      "object": "VEDA",
+      "schema": "SAPABAP1"
+    }
+  },
+  "Synonym_VBFA": {
+    "target": {
+      "object": "VBFA",
+      "schema": "SAPABAP1"
+    }
+  }
+}
