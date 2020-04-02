@@ -22,11 +22,5 @@
       "object": "VEDA",
       "schema": "SAPABAP1"
     }
-  },
-  "Synonym_VBFA": {
-    "target": {
-      "object": "VBFA",
-      "schema": "SAPABAP1"
-    }
   }
 }
